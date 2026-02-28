@@ -119,7 +119,7 @@ else
    - Copie o token gerado
 
 2. Execute novamente com o token:
-   export GITHUB_PAT="seu_token_aqui"
+   export GITHUB_PAT="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"
    ./${0##*/}
 
    OU configure diretamente:
