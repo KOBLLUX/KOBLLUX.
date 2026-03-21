@@ -4,9 +4,10 @@
     {
       "cat": "Vídeos do Repositório",
       "vids": [
-        "000_VIDEOS/Whisk_e2nkdtn0ijywiwow0cn4mwytigohrtlyymmj1sn.mp4",
-        "000_VIDEOS/outro_video.mp4"
+        "https://raw.githubusercontent.com/KOBLLUX/KOBLLUX./main/000_VIDEOS/Whisk_e2nkdtn0ijywiwow0cn4mwytigohrtlyymmj1sn.mp4",
+        "https://raw.githubusercontent.com/KOBLLUX/KOBLLUX./main/000_VIDEOS/outro_video.mp4"
       ]
     }
-  ]
+  ],
+  "podcasts": []
 }
