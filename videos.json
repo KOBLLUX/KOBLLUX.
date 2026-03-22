@@ -1,13 +1,98 @@
 {
-  "title": "KOBLLUX · Videoteca Local",
+  "title": "KOBLLUX · Videoteca Infodose",
+  "description": "VERDADE × INTEGRAR ÷ Δ = ∞ · 3×6×9×7=1134",
+  "version": "1.0",
+  "updated": "2026-03-22",
   "categories": [
     {
-      "cat": "Vídeos do Repositório",
+      "cat": "432Hz · NOVA · Gênese",
+      "opcode": "0x01",
+      "freq": 432,
+      "arquetipo": "NOVA",
       "vids": [
-        "https://raw.githubusercontent.com/KOBLLUX/KOBLLUX./main/000_VIDEOS/Whisk_e2nkdtn0ijywiwow0cn4mwytigohrtlyymmj1sn.mp4",
-        "https://raw.githubusercontent.com/KOBLLUX/KOBLLUX./main/000_VIDEOS/outro_video.mp4"
+        "COLE_YOUTUBE_ID_AQUI",
+        "https://raw.githubusercontent.com/KOBLLUX/KOBLLUX./main/000_VIDEOS/432hz_nova.mp4"
+      ]
+    },
+    {
+      "cat": "528Hz · ATLAS · Orquestrador",
+      "opcode": "0x02",
+      "freq": 528,
+      "arquetipo": "ATLAS",
+      "vids": [
+        "Bt_rLbMjJDk"
+      ]
+    },
+    {
+      "cat": "639Hz · VITALIS · Ação",
+      "opcode": "0x03",
+      "freq": 639,
+      "arquetipo": "VITALIS",
+      "vids": [
+        "_0wVkryxanE"
+      ]
+    },
+    {
+      "cat": "777Hz · SELAR · Lumine",
+      "opcode": "0x07",
+      "freq": 777,
+      "arquetipo": "LUMINE",
+      "vids": [
+        "1L9_rFmIGJ8"
+      ]
+    },
+    {
+      "cat": "963Hz · AION · Manifestar",
+      "opcode": "0x09",
+      "freq": 963,
+      "arquetipo": "AION",
+      "vids": [
+        "DTDfkHwuMic"
       ]
     }
   ],
-  "podcasts": []
+  "podcasts": [
+    {
+      "cat": "INFODOSE · Frequências Sagradas",
+      "opcode": "0x05",
+      "freq": 672,
+      "eps": [
+        {
+          "title": "EP 01 · INICIAR · O Ponto Zero",
+          "url": "https://raw.githubusercontent.com/KOBLLUX/KOBLLUX./main/000_AUDIO/ep01_iniciar.mp3",
+          "cover": "https://raw.githubusercontent.com/KOBLLUX/KOBLLUX./main/assets/covers/ep01.jpg",
+          "opcode": "0x00",
+          "freq": 396
+        },
+        {
+          "title": "EP 02 · INTEGRAR · Fusão dos Opostos",
+          "url": "https://raw.githubusercontent.com/KOBLLUX/KOBLLUX./main/000_AUDIO/ep02_integrar.mp3",
+          "cover": "https://raw.githubusercontent.com/KOBLLUX/KOBLLUX./main/assets/covers/ep02.jpg",
+          "opcode": "0x02",
+          "freq": 528
+        },
+        {
+          "title": "EP 03 · EXPANDIR · Volume e Crescimento",
+          "url": "https://raw.githubusercontent.com/KOBLLUX/KOBLLUX./main/000_AUDIO/ep03_expandir.mp3",
+          "cover": "https://raw.githubusercontent.com/KOBLLUX/KOBLLUX./main/assets/covers/ep03.jpg",
+          "opcode": "0x03",
+          "freq": 639
+        }
+      ]
+    },
+    {
+      "cat": "KOBLLUX · Narrativa Viva",
+      "opcode": "0x08",
+      "freq": 852,
+      "eps": [
+        {
+          "title": "A Equação Fundamental · Δ(E×T)×KOBLLUX=∞",
+          "url": "https://raw.githubusercontent.com/KOBLLUX/KOBLLUX./main/000_AUDIO/narrativa_equacao.mp3",
+          "cover": "https://raw.githubusercontent.com/KOBLLUX/KOBLLUX./main/assets/covers/narrativa.jpg",
+          "opcode": "0x05",
+          "freq": 672
+        }
+      ]
+    }
+  ]
 }
